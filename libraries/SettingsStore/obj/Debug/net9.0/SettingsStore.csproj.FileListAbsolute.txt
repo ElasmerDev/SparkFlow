@@ -1,0 +1,16 @@
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\SettingsStore\bin\Debug\net9.0\SettingsStore.deps.json
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\SettingsStore\bin\Debug\net9.0\SettingsStore.dll
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\SettingsStore\bin\Debug\net9.0\SettingsStore.pdb
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\SettingsStore\obj\Debug\net9.0\SettingsStore.csproj.AssemblyReference.cache
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\SettingsStore\obj\Debug\net9.0\SettingsStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\SettingsStore\obj\Debug\net9.0\SettingsStore.AssemblyInfoInputs.cache
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\SettingsStore\obj\Debug\net9.0\SettingsStore.AssemblyInfo.cs
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\SettingsStore\obj\Debug\net9.0\SettingsStore.csproj.CoreCompileInputs.cache
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\SettingsStore\obj\Debug\net9.0\SettingsStore.sourcelink.json
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\SettingsStore\obj\Debug\net9.0\SettingsStore.dll
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\SettingsStore\obj\Debug\net9.0\refint\SettingsStore.dll
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\SettingsStore\obj\Debug\net9.0\SettingsStore.pdb
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\SettingsStore\obj\Debug\net9.0\ref\SettingsStore.dll
+E:\All_Project\SparkFlow\libraries\SettingsStore\obj\Debug\net9.0\SettingsStore.dll
+E:\All_Project\SparkFlow\libraries\SettingsStore\obj\Debug\net9.0\refint\SettingsStore.dll
+E:\All_Project\SparkFlow\libraries\SettingsStore\obj\Debug\net9.0\SettingsStore.pdb

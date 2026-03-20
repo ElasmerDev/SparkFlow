@@ -1,0 +1,12 @@
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\GameContracts\bin\Debug\net9.0\GameContracts.deps.json
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\GameContracts\bin\Debug\net9.0\GameContracts.dll
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\GameContracts\bin\Debug\net9.0\GameContracts.pdb
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\GameContracts\obj\Debug\net9.0\GameContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\GameContracts\obj\Debug\net9.0\GameContracts.AssemblyInfoInputs.cache
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\GameContracts\obj\Debug\net9.0\GameContracts.AssemblyInfo.cs
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\GameContracts\obj\Debug\net9.0\GameContracts.csproj.CoreCompileInputs.cache
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\GameContracts\obj\Debug\net9.0\GameContracts.sourcelink.json
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\GameContracts\obj\Debug\net9.0\GameContracts.dll
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\GameContracts\obj\Debug\net9.0\refint\GameContracts.dll
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\GameContracts\obj\Debug\net9.0\GameContracts.pdb
+C:\Users\hamad\OneDrive\Desktop\Fluentbyte\Libraries\GameContracts\obj\Debug\net9.0\ref\GameContracts.dll

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "FcvDLF3RQNc=",
+  "success": false,
+  "projectFilePath": "E:\\All_Project\\SparkFlow\\libraries\\EmulatorLib\\EmulatorLib.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1008",
+      "level": "Error",
+      "message": "The following PackageReference items cannot define a value for Version: Avalonia, Microsoft.Extensions.DependencyInjection, System.Drawing.Common. Projects using Central Package Management must define a Version value on a PackageVersion item. For more information, visit https://aka.ms/nuget/cpm/gettingstarted",
+      "projectPath": "E:\\All_Project\\SparkFlow\\libraries\\EmulatorLib\\EmulatorLib.csproj",
+      "filePath": "E:\\All_Project\\SparkFlow\\libraries\\EmulatorLib\\EmulatorLib.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
