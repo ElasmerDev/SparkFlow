@@ -1,15 +1,19 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-
+<Project Sdk="Microsoft.NET.Sdk">
   <ItemGroup>
     <ProjectReference Include="..\SparkFlow.Agent.Contracts\SparkFlow.Agent.Contracts.csproj" />
     <ProjectReference Include="..\SparkFlow.Agent.Infrastructure\SparkFlow.Agent.Infrastructure.csproj" />
     <ProjectReference Include="..\..\Shared\SparkFlow.Shared.Core\SparkFlow.Shared.Core.csproj" />
+    <ProjectReference Include="..\..\..\libraries\AdbLib\AdbLib.csproj" />
+    <ProjectReference Include="..\..\..\libraries\DeviceBindingLib\DeviceBindingLib.csproj" />
+    <ProjectReference Include="..\..\..\libraries\EmulatorLib\EmulatorLib.csproj" />
+    <ProjectReference Include="..\..\..\libraries\GameContracts\GameContracts.csproj" />
+    <ProjectReference Include="..\..\..\libraries\GameModules\WarAndOrder\WarAndOrder.csproj" />
+    <ProjectReference Include="..\..\..\libraries\LicenseLib\LicenseLib.csproj" />
+    <ProjectReference Include="..\..\..\libraries\SettingsStore\SettingsStore.csproj" />
   </ItemGroup>
-
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
 </Project>

@@ -12,5 +12,7 @@
     <ProjectReference Include="..\..\Shared\SparkFlow.Shared.Core\SparkFlow.Shared.Core.csproj" />
     <ProjectReference Include="..\..\Shared\SparkFlow.Shared.Configuration\SparkFlow.Shared.Configuration.csproj" />
     <ProjectReference Include="..\..\Shared\SparkFlow.Shared.Logging\SparkFlow.Shared.Logging.csproj" />
+    <ProjectReference Include="..\SparkFlow.Server.Infrastructure\SparkFlow.Server.Infrastructure.csproj" />
+    <ProjectReference Include="..\SparkFlow.Server.Contracts\SparkFlow.Server.Contracts.csproj" />
   </ItemGroup>
 </Project>

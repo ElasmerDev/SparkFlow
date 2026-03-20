@@ -1,14 +1,12 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-
+<Project Sdk="Microsoft.NET.Sdk">
   <ItemGroup>
     <ProjectReference Include="..\SparkFlow.Server.Domain\SparkFlow.Server.Domain.csproj" />
-    <ProjectReference Include="..\SparkFlow.Server.Infrastructure\SparkFlow.Server.Infrastructure.csproj" />
+    <ProjectReference Include="..\SparkFlow.Server.Contracts\SparkFlow.Server.Contracts.csproj" />
+    <ProjectReference Include="..\..\Shared\SparkFlow.Shared.Core\SparkFlow.Shared.Core.csproj" />
   </ItemGroup>
-
   <PropertyGroup>
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
 </Project>

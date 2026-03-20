@@ -33,5 +33,8 @@
     <ProjectReference Include="..\..\Shared\SparkFlow.Shared.Core\SparkFlow.Shared.Core.csproj" />
     <ProjectReference Include="..\..\Shared\SparkFlow.Shared.Configuration\SparkFlow.Shared.Configuration.csproj" />
     <ProjectReference Include="..\..\Shared\SparkFlow.Shared.Logging\SparkFlow.Shared.Logging.csproj" />
+    <ProjectReference Include="..\SparkFlow.Worker.Views\SparkFlow.Worker.Views.csproj" />
+    <ProjectReference Include="..\SparkFlow.Worker.LocalClient\SparkFlow.Worker.LocalClient.csproj" />
+    <ProjectReference Include="..\SparkFlow.Worker.Contracts\SparkFlow.Worker.Contracts.csproj" />
   </ItemGroup>
 </Project>
