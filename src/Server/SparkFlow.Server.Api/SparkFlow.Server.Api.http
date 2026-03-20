@@ -1,6 +1,28 @@
-@SparkFlow.Server.Api_HostAddress = http://localhost:5131
+﻿@SparkFlow_Server_Api_HostAddress = http://localhost:5168
 
-GET {{SparkFlow.Server.Api_HostAddress}}/weatherforecast/
+GET {{SparkFlow_Server_Api_HostAddress}}/api/workers
 Accept: application/json
+
+###
+
+POST {{SparkFlow_Server_Api_HostAddress}}/api/workers/register
+Content-Type: application/json
+
+{
+  "installationId": "install-001",
+  "machineFingerprint": "fingerprint-001",
+  "protocolVersion": 1,
+  "displayName": "Worker 01",
+  "hostName": "host-01"
+}
+
+###
+
+POST {{SparkFlow_Server_Api_HostAddress}}/api/workers/heartbeat
+Content-Type: application/json
+
+{
+  "workerKey": "replace-with-real-worker-key"
+}
 
 ###
